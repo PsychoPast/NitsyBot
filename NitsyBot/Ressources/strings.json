@@ -1,0 +1,39 @@
+{
+  "fr": {
+    "nitsybot_missing_permissions": "Erreur! Tu as besoin de la permission ManageGuild pour exécuter cette commande!",
+    "setdatabases_embeda_currentlysupportedlanguage": "Langues actuellement prises en charge",
+    "setdatabases_embeda_defaultlangauge": "anglais(par défaut)",
+    "setdatabases_embeda_frenchlanguage": "français",
+    "setdatabases_embeda_invalidinput": "Entrée non valide! Pour définir la langue de votre serveur,écrivez `+SetLang[langue]`",
+    "setdatabases_setlangasync_embedb_idorchannel": "salon",
+    "setdatabases_setlangasync_embedb_information": "[salon] est soit l'ID du salon,soit #[salon]. Mais pas le nom du salon!!De plus,ID est optionnel.Si vous ne mettez rien après la commande +Set, le salon dans lequel vous avez fait la commande sera set",
+    "setdatabases_setlangasync_embedb_patchnote": "Le salon dans lequel le bot va poster le patchnote",
+    "setdatabases_setlangasync_embedb_status": "Le salon dans lequel le bot va poster le status des serveurs Fortnite en plus de la dernière version",
+    "setdatabases_setlangasync_embedb_aes": "Le salon dans lequel le bot va poster les clés AES",
+    "setdatabases_setlangasync_embedb_shop": "Le salon dans lequel le bot va poster la boutique",
+    "setdatabases_setlangasync_embedb_nitsy": "Le salon dans lequel le bot va poster ses nouveautés et son status",
+    "setdatabases_setlangasync_embedb_report": "Le salon dans lequel le bot va poster les logs des reports",
+    "setdatabases_setlangasync_embedb_support": "Le salon pour recevoir les messages des membres qui ont besoin du support",
+    "setdatabases_setlangasync_languageset": "La langue de ce serveur a été définie sur le français!"
+  },
+  "en": {
+    "nitsybot_missing_permissions": "Error! You need ManageGuild permission in order to exectute that command!",
+    "setdatabases_embeda_currentlysupportedlanguage": "Currently supported languages",
+    "setdatabases_embeda_defaultlangauge": "english(default)",
+    "setdatabses_embeda_frenchlanguage": "french",
+    "setdatabases_embeda_invalidinput": "Invalid input!To set your server's language ,write `+SetLang [language]`",
+    "setdatabases_setlangasync_embedb_idorchannel": "channel",
+    "setdatabases_setlangasync_embedb_information": "[channel] is the channel's ID ,or #[channel]. But not the channel's name! Not putting anything after +Set command will set the channel where the command was executed",
+    "setdatabases_setlangasync_embedb_patchnote": "The channel where the bot will poste the patchnote",
+    "setdatabases_setlangasync_embedb_status": "The channel where the bot will poste Fortnite servers' status as well as latest version",
+    "setdatabases_Setlangasync_embedb_aes": "The channel where the bot will post the AES keys",
+    "setdatabases_setlangasync_embedb_shop": "The channel where the bot will post the shop",
+    "setdatabases_setlangasync_embedb_nitsy": "The channel where the bot will post its changelog and maintenance",
+    "setdatabases_setlangasync_embedb_report": "The channel where the bot will post users' reports logs",
+    "setdatabases_setlangasync_embedb_support": "The channel to recieve the messages of users who need help",
+    "setdatabases_setlangasync_languageset": "The language for this guild has been set to english!"
+  },
+  "shared": {
+    "setdatabases_setlangasync_embedb_information": "Informations"
+  }
+}

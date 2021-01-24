@@ -1,0 +1,54 @@
+﻿{
+  "Tasks": [
+    {
+      "Code cleanup and refactor": {
+        "status": "Working on it"
+      },
+      "Command to direct contact me for help/bug reports/suggestions": {
+        "status": "Done"
+      },
+      "Fix every automatic feature since they are not working as excepted": {
+        "status": "Done"
+      },
+      "Make +suggestion": {
+        "status": "Abandonned"
+      },
+      "Make channel blacklisting (like MEE6)": {
+        "status": "Working on it"
+      },
+      "Make every static method , non-static since making everything static is evil": {
+        "status": "Working on it"
+      },
+      "Make Fortnite News canvas": {
+        "status": "Suspended"
+      },
+      "Make my own aes system": {
+        "status": "Suspended"
+      },
+      "Make shop canvas": {
+        "status": "Suspended"
+      },
+      "Overall optimization": {
+        "status": "Working on it"
+      },
+      "Re-add +search": {
+        "status": "Done"
+      },
+      "Review any possible modification of my Singelton Pattern Class": {
+        "status": "Done"
+      },
+      "Rework database": {
+        "status": "Working on it"
+      },
+      "Rework +mute and +unmute": {
+        "status": "Working on it"
+      },
+      "Add a +disable to let the server disable some commands": {
+        "status": "Working on it"
+      },
+      "Save the Word shop Canvas": {
+        "status": "Suspended"
+      }
+    }
+  ]
+}
